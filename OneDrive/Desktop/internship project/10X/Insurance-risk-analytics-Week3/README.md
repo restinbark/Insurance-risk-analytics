@@ -1,5 +1,5 @@
 
-# 🚗 Insurance Risk Analysis – 10 Academy Week 3
+# 🚗 Insurance Risk Analysis
 
 This repository contains code and analysis for the **End-to-End Insurance Risk Analytics & Predictive Modeling** challenge by 10 Academy.
 
