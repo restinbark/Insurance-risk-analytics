@@ -1,0 +1,14 @@
+﻿# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore development artifacts
+__pycache__/
+*.pyc
+*.log
+.env
+.venv/
+venv/
+
+# Ignore data files (if needed)
+data/
